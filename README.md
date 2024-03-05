@@ -13,4 +13,4 @@
 
 📫 How to reach me:
 
-[![Researchgate](https://img.shields.io/badge/Researchgate-green?style=for-the-badge&logo=researchgate&logoColor=white)]([https://www.researchgate.net/profile/R_C_B_Rego](https://www.researchgate.net/profile/Vladislav-Korchuganov)https://www.researchgate.net/profile/Vladislav-Korchuganov)
+[![Researchgate](https://img.shields.io/badge/Researchgate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Vladislav-Korchuganov)
