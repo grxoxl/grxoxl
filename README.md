@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **seismic inverison problem**
 
-- 🌱 I’m currently learning **c++, cuda, machine learning, signal processing**
+- 🌱 I’m currently learning **c/c++, cuda, machine learning, signal processing**
 
 - 👯 I’m looking to collaborate on **seismic interpretation**
   
